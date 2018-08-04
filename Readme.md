@@ -6,7 +6,7 @@ git trabalha em 4 linhas de tempo.
 git status da o estado dos arquivos 
 git log e git show mostra o que foi feito
 git reset pode ser soft mixed  ou hard
-
+adicionado ao github usando git push
 
 
 
