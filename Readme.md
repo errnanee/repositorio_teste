@@ -9,7 +9,7 @@ git reset pode ser soft mixed  ou hard
 adicionado ao github usando git push
 como clonando repositorios basta digitar de tro de outra pasta 
 g clone e colar o endereco do git copiado na pagina do githb
-
+usando fork para copiar um projeto  
 
 
 
